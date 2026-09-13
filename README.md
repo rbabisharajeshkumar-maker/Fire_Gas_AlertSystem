@@ -26,8 +26,5 @@ An Arduino-based safety system that monitors for gas leaks and fire, giving real
 See `fire_gas_alert.ino` for the full sketch.
 
 
-- Digital sensor reading (flame sensor)
-- Digital output control (buzzer, LED)
 
-## Code
-See `fire_gas_alert.ino` for the full sketch.
+
